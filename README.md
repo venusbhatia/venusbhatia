@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @venusbhatia
 - 👀 I’m interested in software engineering
-- 🌱 i honestly really love bhilding software
-- 📫 you can reach me @venusbhatia on any platform (except Meta) ...
+- 🌱 i honestly really love building software
+- 📫 feel free to reach me at venusbhatia@icloud.com
 
 <!---
 venusbhatia/venusbhatia is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
