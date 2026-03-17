@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @venusbhatia
-- 👀 I’m interested in iOS App Developement
-- 🌱 I’m currently learning different approaches to build better UX
-- 💞️ I’m looking to collaborate on new projects
+- 👀 I’m interested in software engineering
+- 🌱 i honestly really love bhilding software
 - 📫 you can reach me @venusbhatia on any platform (except Meta) ...
 
 <!---
